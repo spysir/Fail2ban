@@ -13,7 +13,7 @@
 # 配置 #
 - /etc/fail2ban/jail.local
 
-# 支持系统 #
+# 系统 #
 - Centos 6/7 (x86/x64)
 - Ubuntu 14.04 (x86/x64)
 - Ubuntu 16.10 (x86/x64)
