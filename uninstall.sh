@@ -58,3 +58,5 @@ if [ ${OS} == Ubuntu ] || [ ${OS} == Debian ];then
 fi
 
 rm -rf /etc/fail2ban
+
+rm -rf /var/log/fail2ban.log
