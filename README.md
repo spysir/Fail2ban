@@ -7,6 +7,9 @@
 - 自定义SSH尝试连接次数
 - 一键完成SSH防止暴力破解
 
+# 日志 #
+- /var/log/fail2ban.log
+
 # 支持系统 #
 - Centos 6/7 (x86/x64)
 - Ubuntu 14.04 (x86/x64)
