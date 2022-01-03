@@ -10,6 +10,9 @@
 # 日志 #
 - /var/log/fail2ban.log
 
+# 日志 #
+- /etc/fail2ban/jail.local
+
 # 支持系统 #
 - Centos 6/7 (x86/x64)
 - Ubuntu 14.04 (x86/x64)
