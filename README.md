@@ -10,7 +10,7 @@
 # 日志 #
 - /var/log/fail2ban.log
 
-# 日志 #
+# 配置 #
 - /etc/fail2ban/jail.local
 
 # 支持系统 #
