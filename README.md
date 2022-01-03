@@ -8,7 +8,7 @@
 - 一键完成SSH防止暴力破解
 
 # 日志 #
-- /var/log/fail2ban.log
+- /var/log/auth.log
 
 # 配置 #
 - /etc/fail2ban/jail.local
