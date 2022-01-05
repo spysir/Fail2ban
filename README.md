@@ -13,6 +13,9 @@
 # 配置 #
 - /etc/fail2ban/jail.local
 
+# 查询 #
+- fail2ban-client status sshd
+
 # 系统 #
 - Centos 6/7 (x86/x64)
 - Ubuntu 14.04 (x86/x64)
