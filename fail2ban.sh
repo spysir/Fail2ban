@@ -171,7 +171,7 @@ if [[ ${OS} =~ ^Ubuntu$|^Debian$ ]]; then
   service ssh restart
 fi
 echo ""
-echo 'Github: https://github.com/spysir'
+
 echo 'Good luck to you!'
 
 
