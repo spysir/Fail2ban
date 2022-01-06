@@ -13,8 +13,11 @@
 # 配置 #
 - /etc/fail2ban/jail.local
 
-# 查询 #
+# 查询屏蔽 #
 - fail2ban-client status sshd
+
+# 解除屏蔽 #
+- fail2ban-client set sshd unbanip IP
 
 # 系统 #
 - Centos 6/7 (x86/x64)
